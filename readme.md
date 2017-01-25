@@ -17,6 +17,11 @@ You can install/update the node dependencies via `npm install -d`.
 Dependencies for client code are managed via bower ( https://github.com/twitter/bower ). 
 You need to have `ffmpeg` installed (it's used for the picture stuff)
 
+Screenshot
+========
+This is how it looks like in action:
+![ar-drone-browser-interface](https://cloud.githubusercontent.com/assets/18402508/22300645/1ba1d92a-e2f6-11e6-822a-b580f398563c.png)
+
 TODO
 ======
 - use getUserMedia/the webcam to control the drone (like magic xylophone...)
