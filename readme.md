@@ -24,11 +24,9 @@ This is how it looks like in action:
 
 TODO
 ======
-- use getUserMedia/the webcam to control the drone (like magic xylophone...)
 - add a slider to make the speed/duration of actions configurable
 - toggle between takeoff/land buttons or disable takeoff button after takeoff...
 - maybe change the "recover" button to send a land command first (because otherwise the drone tries to start again...)
 - only show the recover button when the drone is in emergency mode
-- use canvas to draw angle-stuff or rotate the picture stream accordingly
 - get rid of the (sometimes) long lag of the picture stream 
 - make it work without ffmpeg (skip the picture stuff then....)
